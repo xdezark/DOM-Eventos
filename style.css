@@ -1,0 +1,20 @@
+.stock{
+    font-size: 60px;
+}
+
+.titulito{
+   margin-top: 35px;
+   margin-bottom: 25px;
+}
+
+#formulario{
+    width: 450px;
+}
+
+.contenedorbusqueda{
+    position: absolute;
+    left: 700px;
+    top: 100px;
+    
+}
+
